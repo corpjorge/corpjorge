@@ -15,20 +15,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=corpjorge&
 
 ### Best IDE
 
-<div
-  style="display: flex;; flex-wrap: wrap; gap: 20px; background: aliceblue; padding: 8px; border-radius: 5px; width: fit-content">
-
-  <a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-    alt="idea" width="50" height="65" />
-  </a>
-
-  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"
-    alt="jetbrains" width="50" height="65" />
-  </a>
-
-</div>
+<div style="display:flex;flex-wrap:wrap;gap:20px;background:#f0f8ff;padding:8px;border-radius:5px;width:fit-content"><a href="https://www.jetbrains.com/es-es/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="idea" width="50" height="65"></a><a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="50" height="65"></a></div>
 
 ### Cloud
 
