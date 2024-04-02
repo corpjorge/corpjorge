@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=corpjorge&row=1&column=10&margin-h=15&margin-w=15&theme=onedark&no-bg=true)](https://github.com/corpjorge/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=corpjorge&theme=transparent&hide_border=true&card_width=400)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&card_width=444&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&card_width=400&theme=transparent&hide_border=true)
 
 [![Ashutosh's github activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=corpjorge&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
