@@ -1,6 +1,4 @@
-[![TypingSVG](https://readme-typing-svg.herokuapp.com?lines=corpjorge()-%3Edev+%3F++true+%3A+true)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&random=false&width=500&separator=%3C&lines=C%2B%2B+corpjorge()-%3Edev+%3F+true+%3A+true;%3Cphp+corpjorge()-%3Edev+%3F+true+%3A+true;%3CJavaScript+corpjorge().dev+%3F+true+%3A+true;%3CC%23+corpjorge().Dev+%3F+true+%3A+true;%3CRuby+corpjorge().dev+%3F+true+%3A+true%3CDart+corpjorge().dev+%3F+true+%3A+true;%3CJava+corpjorge().getDev()+%3F+true+%3A+true;)](https://git.io/typing-svg)
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=corpjorge&row=1&column=10&margin-h=15&margin-w=15&theme=onedark&no-bg=true)](https://github.com/corpjorge/github-profile-trophy)
 
