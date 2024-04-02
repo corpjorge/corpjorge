@@ -1,13 +1,22 @@
-
-[![Typing
+<h3 align="center">[![Typing
 SVG](https://readme-typing-svg.herokuapp.com?lines=corpjorge()-%3Edev+%3F++true+%3A+true)](https://git.io/typing-svg)
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com?user=corpjorge&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)](https://git.io/streak-stats)
-[![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=es)](https://github.com/corpjorge/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=corpjorge&theme=dracula&no-frame=true&margin-w=15&margin-h=15&date_format=j%20M%5B%20Y%5D&locale=es)](https://github.com/corpjorge/github-profile-trophy)
-[![Ashutosh's github activity
-graph](https://github-readme-activity-graph.vercel.app/graph?username=corpjorge&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</h3>
+
+### Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=corpjorge&row=1&column=10&margin-h=15&margin-w=15&theme=onedark&no-bg=true)](https://github.com/corpjorge/github-profile-trophy)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=corpjorge&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&theme=transparent&hide_border=true)
+
+
+
+[![Ashutosh's github activitygraph](https://github-readme-activity-graph.vercel.app/graph?username=corpjorge&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=corpjorge&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
+
+
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
@@ -41,8 +50,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=corpjorge&
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" alt="unreal" width="65" height="65"></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" alt="unity" width="65" height="65"></a>
 
 ### In progress
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" alt="dart" width="65" height="65">50%</a><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="dart" width="50" height="65"> 50%</a><a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="65" height="65"> 30%</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="65" height="65"> 45%</a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="65" height="65"> 9%</a><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="65" height="65">30%</a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="65" height="65"> 2%</a>
-
+<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" alt="dart" width="65" height="65">50%</a><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="dart" width="50" height="65"> 50%</a><a href="https://go.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="65" height="65"> 30%</a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="65" height="65"> 45%</a><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="65" height="65"> 9%</a><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#" width="65" height="65">30%</a><a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" width="65" height="65"> 2%</a><a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="android" width="65" height="65"> 68% </a>
 
 ### Star History
 
