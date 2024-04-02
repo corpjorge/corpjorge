@@ -1,6 +1,5 @@
-<h3 align="center">[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?lines=corpjorge()-%3Edev+%3F++true+%3A+true)](https://git.io/typing-svg)
-</h3>
+[![TypingSVG](https://readme-typing-svg.herokuapp.com?lines=corpjorge()-%3Edev+%3F++true+%3A+true)](https://git.io/typing-svg)
+
 
 ### Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=corpjorge&row=1&column=10&margin-h=15&margin-w=15&theme=onedark&no-bg=true)](https://github.com/corpjorge/github-profile-trophy)
