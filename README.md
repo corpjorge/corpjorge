@@ -5,7 +5,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=corpjorge&theme=transparent&hide_border=true&card_width=400)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&card_width=440&theme=transparent&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&card_width=435&theme=transparent&hide_border=true)
 
 
 
