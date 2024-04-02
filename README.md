@@ -4,8 +4,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=corpjorge&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=corpjorge&theme=transparent&hide_border=true&card_width=400)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corpjorge&show_icons=true&card_width=400&theme=transparent&hide_border=true)
 
 
 
@@ -13,9 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=corpjorge&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true)
 
-
-
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 ## Stack
 
@@ -53,5 +50,3 @@
 
 [![Star History
 Chart](https://api.star-history.com/svg?repos=corpjorge/bootlight,corpjorge/soft-ui-mobile-menu,corpjorge/bootstrap-5.1-sb-admin-2&type=Timeline)](https://star-history.com/#corpjorge/bootlight&corpjorge/soft-ui-mobile-menu&corpjorge/bootstrap-5.1-sb-admin-2&Timeline)
-
- 
